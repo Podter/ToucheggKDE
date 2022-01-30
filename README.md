@@ -1,4 +1,5 @@
 # ToucheggKDE
+**Just change smth by Podter**
 TouchEgg configuration for Touchpad Gestures like MacOS/Windows for KDE Plasma. Finally, enjoy the multi-touch touchpad gesture goodness of MacOS in KDE Plasma!
 
 ## Installation
